@@ -1524,3 +1524,13 @@
 
 }
 
+
+
+
+
+@media (min-width: 430px) and (max-width: 932px){
+	.benner1{
+		width: 100px;
+	}
+}
+
